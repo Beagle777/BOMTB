@@ -11,13 +11,13 @@ body {
 /* Sections */
 
 .colored-section {
-    background-color: #ff4c68;
-    color: white;
+    background-color: #4b3f3b;
+    color: #F6F1E5;
 }
 
 .white-section {
-    background-color: white;
-    color: black;
+    background-color: #F6F1E5;
+    color: #4b3f3b;
 }
 
 /* Headings */
