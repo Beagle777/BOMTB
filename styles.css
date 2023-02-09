@@ -8,6 +8,12 @@ body {
     padding: 7% 15%;
 }
 
+.container-fluid1 {
+    background-color: #eee3cB;
+    position: relative;
+    margin-bottom: 0;
+    text-align: center;
+
 /* Sections */
 
 .colored-section {
@@ -84,6 +90,15 @@ body {
     font-size: 1.5rem;
     color: black;
 }
+
+.House {
+    display: inline-block;
+    width: 10%;
+    max-width: 50vw;
+    margin-right: 30px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    line-height: 0%;
 
 p {
     color: #8f8f8f
