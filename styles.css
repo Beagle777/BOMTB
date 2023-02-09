@@ -158,3 +158,12 @@ p {
 .footer-item {
     padding: 0 10px 10px;
 }
+
+.BOMTBLogoWhite {
+    width: 20%;
+    height: auto;
+    max-width: 50vw;
+    position: absolute;
+    right: 3%;
+    bottom: 23%;
+}
