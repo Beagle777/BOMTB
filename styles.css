@@ -33,3 +33,14 @@ body {
     bottom: 23%;
 
 }
+
+.h1cs {
+    font-family: 'Lemon Tuesday', sans-serif;
+    color: #F6F1E5;
+    font-weight: normal;
+    font-size: 7vw;
+    position: absolute;
+    Left: 5%;
+    bottom: 1%;
+}
+
